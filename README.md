@@ -1,4 +1,3 @@
-# Study_-group
 <!doctype html>
 <html lang="en">
 <head>
